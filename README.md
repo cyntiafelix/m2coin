@@ -1,4 +1,4 @@
-# Code Challenge for m2coin
+# Code Challenge
  CRUD application with React + Node.js + Express + MySQL
 
 ### How to start the frontend and backend server.
