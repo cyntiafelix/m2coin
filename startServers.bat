@@ -1,5 +1,3 @@
-cd server
-START "" npm run start
-cd ..
-cd frontend
-START "" npm run serve
+START "" startNodes.bat
+START "" startReact.bat
+exit
