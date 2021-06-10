@@ -2,9 +2,10 @@
  CRUD application with React + Node.js + Express + MySQL
 
 ### How to start the frontend and backend server.
- 1. You need to have MySQL installed on your computer.
- 2. Update the DB parameters in file /server/index.js.
+ 1. You need to have MySQL installed on your computer
+ 2. Update the DB parameters in file /server/index.js
  3. Execute startServers.bat
+ 4. Go to http://localhost:3000/
 
 #### Some Screenshots.
 1. Home Page
